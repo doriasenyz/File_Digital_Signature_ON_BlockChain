@@ -97,7 +97,7 @@ function App() {
     > 
       <div className="px-10 pt-16 pb-10  bg-gray-400/20 rounded-lg drop-shadow-xl">
         <h1 className="text-5xl leading-none font-extrabold text-gray-900 tracking-tight mb-4">
-          Getting Start with Digital Signature.
+          Getting Start with Digital Signature..
         </h1>
         <p className="text-2xl tracking-tight mb-10 text-gray-500">
           The best security on blockchain is achieved through decentralized consensus mechanisms.
